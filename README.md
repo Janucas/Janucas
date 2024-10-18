@@ -28,3 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janucas&show_icons=true&locale=en" alt="janucas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janucas&" alt="janucas" /></p>
+
+  <img src="https://profile-counter.glitch.me/janucas/count.svg" />
+
