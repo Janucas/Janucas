@@ -29,5 +29,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janucas&" alt="janucas" /></p>
 
-  <img src="https://profile-counter.glitch.me/janucas/count.svg" />
+ <a href=#><img src="contributions.svg"></a>
+<p align="center"> 
 
